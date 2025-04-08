@@ -1,6 +1,5 @@
 # Home_Assignment4
 GANGARAPU NITHISH CHANDRA
-Okay, here's a slightly expanded brief for each question, suitable for an explanation video:
 
 Q1: NLP Preprocessing Pipeline**
 
